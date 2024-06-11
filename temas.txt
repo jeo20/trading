@@ -1,0 +1,60 @@
+
+0:00 - Introducción
+3:11 - Entendiendo el Trading
+9:05 - Categorias de Trading
+14:39 - Entendiendo los mercados
+19:40 - Herramientas del Trader
+
+---- ANÁLISIS TÉCNICO ----
+
+21:48 - Gráficos
+27:49 - Velas japonesas (Candlesticks)
+30:26 - Soportes y resistencias
+38:40 - Tendencias
+40:45 - Ruptura de nivel
+42:58 - Pullbacks y Throwbacks
+45:00 - Fortaleza de nivel
+46:45 - Chartismo
+52:07 - Tipos de Velas japonesas (Candlesticks)
+
+---- SECCIÓN INTERMEDIA ----
+
+1:02:27 - Patrones de velas
+1:19:49 - Ejercicios (I)
+1:38:10 - Figuras Chartistas
+1:40:15 - Formaciones Triangulares
+1:42:31 - Banderas
+1:46:21 - Banderines
+1:49:07 - Rectangulos y Cuñas
+1:52:13 - Volumen
+1:57:07 - Tipos de Orden
+2:05:51 - Ejercicios (II)
+2:18:13 - Indicadores
+2:21:20 - Medias móviles 
+2:28:52 - Indicadores de Momentum (o impulso)
+2:29:13 - RSI (Índice de Fuerza Relativa)
+2:32:11 - Indicador Estocástico
+2:38:29 - MACD (Moving Average Convergence Divergence)
+2:42:17 - Bandas de Bollinger
+2:46:07 - Retrocesos de Fibonacci
+2:51:13 - Ejercicios (III)
+
+---- SECCIÓN ESTRATÉGICA ----
+
+3:16:35 - Estrategias de Trading
+3:23:58 - Gestión de Riesgo
+3:29:42 - Ratio de Sharpe
+3:34:52 - Determinar tamaños de posición
+3:38:47 - Apalancamiento
+3:40:02 - Backtesting
+3:44:35 - Consejo personal
+3:47:16 - Psicología del Trading
+
+---- SECCIÓN CRIPTO ----
+
+4:01:32 - Introducción a las criptomonedas
+4:07:18 - Entendiendo Binance
+4:11:28 - Binance Spot
+4:14:01 - Operando en Spot
+4:20:11 - Consejo final
+4:22:00 - Cierre del curso
