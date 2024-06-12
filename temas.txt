@@ -1,16 +1,47 @@
 
 0:00 - Introducción
 3:11 - Entendiendo el Trading
-9:05 - Categorias de Trading
+    diferencia comercio(valor agregado) con trading(aumentar el valor, predecir/especular)
+
+9:05 - Categorias de Trading -marco temporal(temporalidad)
+    day trading(por 1 dia)
+    swing trader (por algunos dias)
+    position trader(mediano-largo plazo)
+    scalping(minutos o segundos)
+
 14:39 - Entendiendo los mercados
+    mercado financiero es adonde se compran y se venden activos financieros
+    forex mercado de divisas
+    comodities son bienes intercambiables por otros bienes del mismo tipo 
+     son de 2 tipos: sof(azucar, sal, manzana) y hard (oro, plata, petroleo)
+    criptomonedas
+
 19:40 - Herramientas del Trader
+    Analisis Tecnico: estudia los precios historicos para predecir los precios futuros(corto y mediano plazo pocos meses)
+    Gráficos: son la representacion de los precios
+        graficos de lineas es la representacion de datos precisos
+        grafico de barras cada barra representa un periodo especifico
+        grafico de velas precio de apertura y cierre (se usa para corto plazo)
+
 
 ---- ANÁLISIS TÉCNICO ----
 
 21:48 - Gráficos
 27:49 - Velas japonesas (Candlesticks)
+        color verde o claro si el valor de cierre es mayor que el de apertura (vela alsista)
+        color rojo u oscuro si el valor de apertura es mayor que el de cierra (vela bajista)
+        sombra superior representa el valor maximo
+        sombra inferior representa el valor minimo
+
 30:26 - Soportes y resistencias
+        soporte es un nivel adonde un activo tiende a detener su caida (es un piso)
+        resistencia es un nivel adonde un activo tiende a encontrar obstaculo para seguir subiendo (es un techo)
+        memoria de mercado
+        psicologia de mercado
+        
 38:40 - Tendencias
+
+
 40:45 - Ruptura de nivel
 42:58 - Pullbacks y Throwbacks
 45:00 - Fortaleza de nivel
