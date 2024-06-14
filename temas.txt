@@ -42,14 +42,30 @@
 38:40 - Tendencias
         alcista (el minimo(soporte) y el maximo(resistencia) suben)
         bajista (el minimo(soporte) y el maximo(resistencia) bajan)
-        lateral (el minimo(soporte) y el maximo(resistencia) no suben ni bajan)
+        lateral/rango/consolidacion (el minimo(soporte) y el maximo(resistencia) no suben ni bajan)
+        estar alerta
+        linea horizontal se usan para marcar soporte y resistencia
+        es una reaccion en el pasado, puntos de interes.
+        tendencia lateral ocurre cuando un activo  se mueve horizontalmente entre 2 niveles paralelos,
+        en una tendencia lateral el precio no sigue una direccion clara
 
 
 40:45 - Ruptura de nivel
+        cuando un precio se rompre, el soporte se convierte en resistencia despues de esperar la confirmacion
+        o que la resistencia se convierte en soporte.
+        
 42:58 - Pullbacks y Throwbacks
+        Throwback: es el retroceso que sufre el valor de un activo en bolsa, el cual interrumpe una tendencia para apoyarse en una resistencia que, previamente, ya había sido superada
+        Pullback: caída temporal o breve retroceso en la tendencia predominante de un activo
+
 45:00 - Fortaleza de nivel
+        Es cuando llega muchas veces a un nivel
+
 46:45 - Chartismo
+        
+
 52:07 - Tipos de Velas japonesas (Candlesticks)
+
 
 ---- SECCIÓN INTERMEDIA ----
 
