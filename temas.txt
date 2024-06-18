@@ -62,10 +62,41 @@
         Es cuando llega muchas veces a un nivel
 
 46:45 - Chartismo
-        
+        Es el análisis de las pautas de los gráficos de valores suelen señalar las transiciones entre tendencias alcistas y bajistas
+        No ofrece garantia de exito
+        Tiene diferentes beneficios:
+            Historia del precio(la historia tiende a repetirse)
+            Psicología de mercado(representa psicologia colectiva)
+            Identificacion de las tendencias(principales metas identificarlas)
+            Puntos de Entrada y Salida(encontrar los mas optimos)
+            Complemento a otras estrategias(analisis fundamental o indicadores tecnicos)
+            Independencia del mercado(aplicable a cualquier mercado)
+            Herramienta de gestion de Riesgo
+            Popularidad y autocumplimiento
+        Definiciones:
+            Reversion de tendencia: es el cambio en la direccion general del precio de un activo de alcista a bajista o viceversa
+            consolidacion: es el periodo en el que el precio se mueve lateralmente sin tendencias alcistas o bajistas claras 
+            falso brackeout o rotura: es cuando el precio de un activo supera brevemente el nivel de soporte o resistencia pero luego regresa a su rango anterios
+            Retroceso o pullback: movimiento temporal del precio en contra de la tendencia establecida
+            Rango: Cuando el precio se mueve entre 2 niveles paralelos soportes y resistencias sin romperlos
+        Patrones
+        Patrones de Reversión: indica que la tendencia se va a invertir
+        Patrones de Continuación: indican que la tendencia continua
 
 52:07 - Tipos de Velas japonesas (Candlesticks)
-
+        Doji: representa indecision en el mercado
+            lapida
+            dragonfly
+            piernas largas
+            estrella
+        Estrella fugaz: indica que puede revertirse
+        Hombre colgados: 
+        Hammer: indica un posible cambio de tendencia alcista
+        Inverted Hammer: indica un posible cambio de tendencia alcista
+        Marubozu alcista
+        Marubozu bajista
+        High Test
+        Low Test
 
 ---- SECCIÓN INTERMEDIA ----
 
